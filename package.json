@@ -1,0 +1,24 @@
+{
+  "name": "vigilant-telegram",
+  "version": "1.0.0",
+  "description": "ArCA-Git Exercise 1",
+  "keywords": [
+    "exercise",
+    "test"
+  ],
+  "homepage": "https://github.com/reidjessica642/vigilant-telegram#readme",
+  "bugs": {
+    "url": "https://github.com/reidjessica642/vigilant-telegram/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reidjessica642/vigilant-telegram.git"
+  },
+  "license": "ISC",
+  "author": "Jessica Reid",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
