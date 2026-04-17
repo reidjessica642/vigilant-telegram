@@ -10,7 +10,7 @@ const randomArray =
     11,
     4352,
     1244
-]
+];
 
 // call array - don't care to iterate
 console.log(randomArray);
